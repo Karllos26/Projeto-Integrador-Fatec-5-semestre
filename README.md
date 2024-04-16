@@ -31,7 +31,7 @@ Para executar o projeto em seu ambiente local, siga estas etapas:
 1. Clone este repositório:
 
 ```
-git clone https://github.com/seu-usuario/Projeto-Integrador-Fatec-5-semestre.git
+git clone [https://github.com/seu-usuario/Projeto-Integrador-Fatec-5-semestre.git](https://github.com/Karllos26/Projeto-Integrador-Fatec-5-semestre.git)
 ```
 
 2. Navegue até o diretório do projeto:
